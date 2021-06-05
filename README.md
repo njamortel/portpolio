@@ -1,8 +1,9 @@
 ## Nicole John Mortel
-* An aspiring Data Scientist
+* An aspiring Data Scientist | IToolbox Founder
 
 
-You can use the [editor on GitHub](https://github.com/njamortel/portpolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Education
+* Bachelors of Science in Information Technology
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
