@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Nicole John Mortel
+* An aspiring Data Scientist
+
 
 You can use the [editor on GitHub](https://github.com/njamortel/portpolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
